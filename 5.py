@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+c=int(input())
+f=(a * b) + (a * c)
+print(f**3/2)
